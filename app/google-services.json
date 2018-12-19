@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "474339581094",
+    "firebase_url": "https://gstore-64c46.firebaseio.com",
+    "project_id": "gstore-64c46",
+    "storage_bucket": "gstore-64c46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474339581094:android:a9cbf644ed16df1f",
+        "android_client_info": {
+          "package_name": "android.alucard.gstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474339581094-pp7s00jqmqd2dl2l81g4gssfmila89cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.alucard.gstore",
+            "certificate_hash": "7fe04f71832c9fcb996712ce9071014c3b048731"
+          }
+        },
+        {
+          "client_id": "474339581094-8a0jeuscj0eof2eoqke503mhesgdpvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Q0EuKIDyHU8pDlhm0l7VvxlsCWol6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474339581094-8a0jeuscj0eof2eoqke503mhesgdpvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

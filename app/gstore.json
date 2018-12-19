@@ -1,0 +1,231 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://s8.postimg.org/uof85ju6d/pcgames.png",
+      "Name" : "PC Games"
+    },
+    "02" : {
+      "Image" : "https://s8.postimg.org/aibq68iyt/thumb-1920-552489.jpg",
+      "Name" : "PS Games"
+    },
+    "03" : {
+      "Image" : "https://s8.postimg.org/hljllvqz9/xbox-wallpaper-9.jpg",
+      "Name" : "XBOX Games"
+    }
+  },
+  "Games" : {
+    "01" : {
+      "Description" : "ASSASSIN’S CREED® ORIGINS IS A NEW BEGINNING.Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power. Unveil dark secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s Brotherhood.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/kdy3y74t1/aco.jpg",
+      "MenuId" : "01",
+      "Name" : "Assassins Creed Origins",
+      "Price" : "35.19"
+    },
+    "02" : {
+      "Description" : "Ready to die? Experience the newest brutal action game from Team NINJA and Koei Tecmo Games. In the age of samurai, a lone traveler lands on the shores of Japan. He must fight his way through the vicious warriors and supernatural Yokai that infest the land in order to find that which he seeks.The Complete Edition contains the full game, as well as the three expansions with additional story chapters: Dragon of the North, Defiant Honor, and Bloodshed's End.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/f53306ox1/nioh.jpg",
+      "MenuId" : "01",
+      "Name" : "Nioh: Complete Edition",
+      "Price" : "12.79"
+    },
+    "03" : {
+      "Description" : "Go behind enemy lines to forge your army, conquer Fortresses and dominate Mordor from within. Experience how the award winning Nemesis System creates unique personal stories with every enemy and follower, and confront the full power of the Dark Lord Sauron and his Ringwraiths in this epic new story of Middle-earth.In Middle-earth: Shadow of War, nothing will be forgotten.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/4jj7nxiit/mesow.jpg",
+      "MenuId" : "01",
+      "Name" : "Middle-earth: Shadow of War (Gold Edition)",
+      "Price" : "49.99"
+    },
+    "04" : {
+      "Description" : "Build and power up the ultimate version of your favourite DC legends in INJUSTICE 2. This is your Legend. Your Journey. Your Injustice.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/mmcafmbxx/image.jpg",
+      "MenuId" : "01",
+      "Name" : "Injustice 2 (Ultimate Edition)",
+      "Price" : "79.99"
+    },
+    "05" : {
+      "Description" : "In Prey, you awaken aboard Talos I, a space station orbiting the moon in the year 2032. You are the key subject of an experiment meant to alter humanity forever – but things have gone terribly wrong. The space station has been overrun by hostile aliens and you are now being hunted.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/96p9pxit1/prey.jpg",
+      "MenuId" : "01",
+      "Name" : "Prey",
+      "Price" : "19.99"
+    },
+    "06" : {
+      "Description" : "Call of Duty: WWII returns to its roots with a breathtaking experience that redefines World War II for a new gaming generation.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/6cm4cplud/cod.jpg",
+      "MenuId" : "01",
+      "Name" : "Call of Duty: WWII",
+      "Price" : "26.55"
+    },
+    "07" : {
+      "Description" : "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/z3njg1yx1/cup.png",
+      "MenuId" : "01",
+      "Name" : "Cuphead",
+      "Price" : "6.96"
+    },
+    "08" : {
+      "Description" : "Create a team with up to 3 friends in Tom Clancy’s Ghost Recon® Wildlands and enjoy the ultimate military shooter experience set in a massive, dangerous, and responsive open world.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/an5dly0ut/ghost.jpg",
+      "MenuId" : "01",
+      "Name" : "Tom Clancys Ghost Recon: Wildlands (Gold Edition)",
+      "Price" : "70.99"
+    },
+    "09" : {
+      "Description" : "America, 1961. The assassination of Nazi General Deathshead was a short-lived victory. The Nazis maintain their stranglehold on the world. You are BJ Blazkowicz, aka “Terror-Billy,” member of the Resistance, scourge of the Nazi empire, and humanity’s last hope for liberty.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/o7w5l2gnp/wolf.jpg",
+      "MenuId" : "01",
+      "Name" : "Wolfenstein II: The New Colossus",
+      "Price" : "29.99"
+    },
+    "10" : {
+      "Description" : "Carve a path of destruction through an intense, believable battlefield in For Honor.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/c60rqyhpx/image.jpg",
+      "MenuId" : "01",
+      "Name" : "FOR HONOR (Gold Edition)",
+      "Price" : "70.99"
+    },
+    "11" : {
+      "Description" : "20 years after a pandemic has radically changed known civilization, infected humans run wild and survivors are killing each other for food, weapons; whatever they can get their hands on. Joel, a violent survivor, is hired to smuggle a 14 year-old girl, Ellie, out of an oppressive military quarantine zone, but what starts as a small job soon transforms into a brutal journey across the U.S.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/u6k2pa4h1/lou.jpg",
+      "MenuId" : "02",
+      "Name" : "The Last of Us Remastered",
+      "Price" : "19.99"
+    },
+    "12" : {
+      "Description" : "Enjoy your superhuman power in a locked-down Seattle. The choices you make along the way will impact everyone around you.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/ujbgvus05/iss.jpg",
+      "MenuId" : "02",
+      "Name" : "inFAMOUS Second Son",
+      "Price" : "19.96"
+    },
+    "13" : {
+      "Description" : "Face your fears in this dangerous new world, where danger, death and madness lurk around every corner.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/x4h1jbzdh/blood.jpg",
+      "MenuId" : "02",
+      "Name" : "Bloodborne",
+      "Price" : "19.93"
+    },
+    "14" : {
+      "Description" : "Dark Souls III offers gamers the sickest of challenges set in a menacing open world.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/4p1o5p26d/ds3.jpg",
+      "MenuId" : "02",
+      "Name" : "Dark Souls III GOTY",
+      "Price" : "50.43"
+    },
+    "15" : {
+      "Description" : "Crown Prince Noctis embarks on a quest to reclaim his homeland in this action-packed RPG. Join him and a colorful cast of characters on a road trip across the immersive and expansive world of Eos. Longtime fans and fresh faces alike, get ready to experience a brand new kind of fantasy.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/lct68artx/image.jpg",
+      "MenuId" : "02",
+      "Name" : "FINAL FANTASY XV",
+      "Price" : "19.99"
+    },
+    "16" : {
+      "Description" : "Every Treasure Has its Price.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/uxcsvch7p/image.jpg",
+      "MenuId" : "02",
+      "Name" : "Uncharted 4: A Thiefs End",
+      "Price" : "39.99"
+    },
+    "17" : {
+      "Description" : "Halo 5: Guardians delivers epic multiplayer experiences that span multiple modes, full-featured level building tools, and a new chapter in the Master Chief saga. And now with Xbox One X, players can experience enhanced visuals, up to 4K resolution, increased visual details, and improved graphic fidelity that makes the game look better than ever before, all while maintaining a consistent 60FPS.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/w3gstvxpx/image.png",
+      "MenuId" : "03",
+      "Name" : "Halo 5: Guardians",
+      "Price" : "19.99"
+    },
+    "18" : {
+      "Description" : "The best-selling Halo game ever, now with all-new content at a great price.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/m3lwe1c6t/image.png",
+      "MenuId" : "03",
+      "Name" : "Halo 4",
+      "Price" : "19.99"
+    },
+    "19" : {
+      "Description" : "A new saga begins for one of the most acclaimed video game franchises in history.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/oaq521hhx/gow4.jpg",
+      "MenuId" : "03",
+      "Name" : "Gears of War 4",
+      "Price" : "39.99"
+    },
+    "20" : {
+      "Description" : "Experience the epic finale to the Gears of War trilogy and fight alongside Delta Squad to rescue humanity.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/jou0tsykl/gow3.jpg",
+      "MenuId" : "03",
+      "Name" : "Gears of War 3",
+      "Price" : "14.99"
+    },
+    "21" : {
+      "Description" : "The best-selling Halo game ever, now with all-new content at a great price.",
+      "Discount" : "0",
+      "Image" : "https://s8.postimg.org/w0wx7f4gl/image.jpg",
+      "MenuId" : "03",
+      "Name" : "Halo 3",
+      "Price" : "19.99"
+    }
+  },
+  "Requests" : {
+    "1512848413805" : {
+      "address" : "1231 sadas asd",
+      "games" : [ {
+        "discount" : "0",
+        "price" : "19.99",
+        "productId" : "17",
+        "productName" : "Halo 5: Guardians",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "19.99",
+        "productId" : "11",
+        "productName" : "The Last of Us Remastered",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "19.99",
+        "productId" : "05",
+        "productName" : "Prey",
+        "quantity" : "1"
+      } ],
+      "name" : "John Doe",
+      "phone" : "1234",
+      "total" : "$57.00"
+    }
+  },
+  "User": {
+    "1234": {
+      "Name": "John Doe",
+      "Password": "1234",
+      "Email": [
+        "jd@test.com",
+        "jd@test2.com"
+      ]
+    },
+    "3456": {
+      "Name": "Jane Doe",
+      "Password": "3456",
+      "Email": [
+        "jd@test22.com",
+        "jd@test23.com"
+      ]
+    }
+  }
+}
